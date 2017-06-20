@@ -1,0 +1,127 @@
+body {
+  background-color: rgb(173, 216, 230);
+}
+
+.about-format {
+  background-color: rgb(191, 191, 191);
+  margin: -10px 100px 0px 100px;
+  padding: 100px;
+  height: 455px;
+}
+
+.bio-text {
+  color: black;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+.line {
+  border-bottom: 5px solid rgb(128, 128, 128);
+  padding: 10px;
+}
+
+.profile-image {
+  width: 350px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 70px;
+}
+
+.skills-format {
+ background-color: rgb(166, 166, 166);
+ padding: 70px;
+ margin: 0px 100px 0px 100px; 
+}
+
+.skills {
+  color: black;
+  text-align: center;
+  margin: -30px 0px 25px 0px;
+  font-size: 48px;
+}
+
+.top {
+  margin-bottom: 55px;
+}
+ 
+.devicon {
+  font-size: 800%;
+  padding: 30px;
+  margin: 0px 0px 0px 55px;
+}
+
+.portfolio-format {
+  background-color: rgb(140, 140, 140);
+  padding: 70px;
+  margin: 0px 100px 0px 100px;
+  height: 500px;
+}
+
+.portfolio {
+  color: black;
+  text-align: center;
+  margin: -30px 0px 25px 0px;
+  font-size: 48px;
+}
+
+.thumbnail {
+  width: 250px;
+  margin-left: 70px;
+  height: 150px;
+}
+
+.thumbnail:hover {
+  box-shadow: 0 0 2px 3px rgba(0, 140, 186, 0.4);
+}
+
+.contact-format {
+  background-color: rgb(115, 115, 115);
+  padding: 70px;
+  margin: 0px 100px 0px 100px;
+  height: 465px;
+}
+
+.contact {
+  color: black;
+  text-align: center;
+  margin: -30px 0px 15px 0px;
+  font-size: 48px;
+}
+
+.contact-info {
+  font-size: 24px;
+  color: black;
+}
+
+.send {
+  width: 475px;
+  font-size: 24px;
+  color: black;
+  background-color: rgb(173, 216, 230);
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px;
+}
+
+.send:hover {
+  background-color: rgb(138, 199, 219);
+}
+
+.send:active {
+  transform: translateY(4px);
+  box-shadow: 0 2px rgb(51, 0, 51);
+  background-color: rgb(173, 216, 230);
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(191, 191, 191);
+  margin-top: -15px;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.foot-notes {
+  font-size: 16px;
+}
