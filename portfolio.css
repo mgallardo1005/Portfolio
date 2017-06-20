@@ -12,12 +12,22 @@ body {
 .bio-text {
   color: black;
   font-size: 30px;
-  margin-top: 40px;
+  margin-top: 25px;
 }
 
 .line {
   border-bottom: 5px solid rgb(128, 128, 128);
   padding: 10px;
+}
+
+.certificate {
+  font-size: 20px;
+  color: black;
+  margin-left: 10px;
+}
+
+.certificate:hover {
+  color: black;
 }
 
 .profile-image {
